@@ -4,22 +4,26 @@
 - Data Types & Variables
     - Primitive & non-primitive data types,
         - `typeof,`Type conversion
+---        
 - Operators & Conditions
     - **Operators**
         - Arithmetic: `+`, , , `/`
         - Comparison: `==`, `===`, `!=`, `!==`, `<`, `>`, `<=`, `>=`
         - Logical: `&&`, `||`, `!`
         - Ternary Operator: `condition ? true : false`
+---        
 - Loops
     - `for`
     - Nested loops
     - `break`, `continue`
+---
 - Functions
     - Function declaration & expression
     - Arrow functions
     - Parameters & arguments
     - Return values
     - Callback functions
+---    
 - Arrays (Core Topic)
     - Creating arrays
     - Indexing & length
@@ -28,12 +32,14 @@
     - Looping arrays
     - `map`, `filter`, `find`, `reduce`
     - Spread operator `[...arr1, ...arr2]`
+---
 - Objects
     - Accessing properties
     - Object creation
     - Nested objects
     - Object destructuring
     - `for...in`
+---
 - String Methods
     - `slice`, `substring`
     - `split`, `join`
