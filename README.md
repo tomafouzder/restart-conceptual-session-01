@@ -61,6 +61,7 @@
 - **Callbacks & Async**
     - Passing function as argument
     - `setTimeout`
+---
 - **Array Methods**
     - Add/Remove: `push`, `pop`, `shift`, `unshift`
     - Iteration: `map`, `filter`, `forEach`
